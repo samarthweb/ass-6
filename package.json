@@ -14,10 +14,11 @@
   "scripts": {
     "start": "node server.js"
   },
-  "name": "g",
+  "name": "assignment6",
   "version": "1.0.0",
   "main": "data-service.js",
-  "author": "",
+  "author": "Samarth",
   "license": "ISC",
-  "description": ""
+  "description": "Samarth",
+  "devDependencies": {}
 }
