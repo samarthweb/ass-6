@@ -3,7 +3,7 @@
 
 const Sequelize = require("sequelize");
 
-var sequelize = new Sequelize('olazbtue', 'olazbtue', 't9Ayv7MsyPbcZeqksMZNsyC-4lIVQ6K0', {
+var sequelize = new Sequelize('regairqm', 'regairqm', 'L4NJ2nyjyFpRpeXQ4bZuImzyr6iP2dec', {
   host: 'lucky.db.elephantsql.com',
   dialect: 'postgres',
   port: 5432,
